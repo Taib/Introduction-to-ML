@@ -6,7 +6,7 @@ This repository contains introductory lectures on Machine Learning.
 1. [Basic concepts](Lect_01.ipynb): This lecture gives an overview of basic concepts in machine learning (learning paradigms, training notions, illustration using the least-square problem)
 2. [No deep Learning](Lect_02.ipynb): This lecture contains examples of various **non-deep learning** models such as *logistic regression*, *support vector machines*, *random forest*, etc. The basic mathematical formulations and illustrative examples are given for each models.
 3. [Intro to Deep Learning](Lect_03.ipynb): This lecture gives an introduction to neural networks (the perceptron, the multi-layer perceptron, backpropagation, convolutional models, etc.). Once again, the basic mathematical formulations and illustrative examples are given for each concept.
-4. [Intro to TensorFlow/Torch](Lect_04.ipynb)
+4. [Intro to UNet/ResNet/DenseNet](Lect_04-tf.ipynb)
 5. [Advanced Deep Learning Concepts](Lect_05.ipynb)
 
 
